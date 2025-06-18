@@ -20,5 +20,4 @@ https://www.figma.com/design/MM9ssIgVcvRhcNaJVw4QaZ/Untitled?node-id=0-1&t=a1l9z
 ![error](https://github.com/user-attachments/assets/9079a849-1a03-430f-bb45-0597bee3879a)
 ![onboard 1](https://github.com/user-attachments/assets/cad65602-6eab-4a35-98e1-b9debcbf0041)
 
-![Screenshot 2025-06-18 142022](https://github.com/user-attachments/assets/57ddc4a2-3de4-4aa3-9d03-f7f6f2362ec3)
 ![launches page](https://github.com/user-attachments/assets/edb761d4-a1d9-4b74-9848-7a3cdbe8bbfb)
